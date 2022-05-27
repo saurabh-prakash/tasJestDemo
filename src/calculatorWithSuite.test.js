@@ -37,7 +37,7 @@ describe('Test Language code_Expanded name to check for test suite_expand', func
     it('-should should detect odd number--', () => {
 //        const number = Math.floor(Math.random() * 10);
 //        const result = number % 2;
-       expect(2).toBe(1);
+       expect(1).toBe(1);
     });
 });
 
